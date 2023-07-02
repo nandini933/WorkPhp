@@ -1,0 +1,5 @@
+<?php
+
+echo"String\n";
+
+?>
